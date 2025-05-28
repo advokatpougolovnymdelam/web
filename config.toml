@@ -2,7 +2,7 @@ baseURL = 'https://advokatpougolovnymdelam.com/'
 languageCode = 'en-us'
 title = 'адвокат по уголовным делам Portugal'
 theme = "archie"
-copyright = "© 2025"
+copyright = "© advokatpougolovnymdelam.com"
 
 [pagination]
 pagerSize = 10
