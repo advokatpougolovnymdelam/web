@@ -25,8 +25,6 @@ posts = '/:section/:slugorcontentbasename/'
 mode = "auto"
 useCDN = false
 subtitle = " ⚖️ Portuguese criminal defense lawyer  🇵🇹 "
-mathjax = true
-katex = true
 
 [[params.social]]
 name = "Bluesky"
@@ -57,6 +55,11 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 [module]
 [[module.mounts]]
