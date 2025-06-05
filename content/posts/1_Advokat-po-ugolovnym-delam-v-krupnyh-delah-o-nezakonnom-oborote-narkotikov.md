@@ -1,7 +1,7 @@
 ---
 categories: Trafficking Cases
 date: "2025-05-28T00:08:00Z"
-title: Strategic legal defense in major trafficking cases
+title: Advokat po ugolovnym delam v krupnyh delah o nezakonnom oborote narkotikov
 ---
 
 Адвокаты по уголовным делам и юридические консультанты играют ключевую роль в обеспечении правосудия в крупных делах о незаконном обороте наркотиков.
