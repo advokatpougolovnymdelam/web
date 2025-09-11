@@ -1,7 +1,7 @@
 ---
 categories: Trafficking Cases
 date: "2025-05-28T00:08:00Z"
-title: Advokat po ugolovnym delam v krupnyh delah o nezakonnom oborote narkotikov
+title: Адвокат по уголовным делам в крупных делах о незаконном обороте наркотиков
 ---
 
 Адвокаты по уголовным делам и юридические консультанты играют ключевую роль в обеспечении правосудия в крупных делах о незаконном обороте наркотиков.
