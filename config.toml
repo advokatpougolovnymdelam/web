@@ -24,7 +24,7 @@ posts = '/:section/:slugorcontentbasename/'
 [params]
 mode = "auto"
 useCDN = false
-subtitle = " ⚖️ Portuguese criminal defense lawyer  🇵🇹  kontakt@advokatpougolovnymdelam.com"
+subtitle = " ⚖️ Portuguese criminal defense lawyer  🇵🇹  kontakt@advokatpougolovnymdelam.com 📞 Записаться на консультацию можно по WhatsApp, Telegram, Signal, электронной почте или телефону."
 
 [[params.social]]
 name = "Bluesky"
