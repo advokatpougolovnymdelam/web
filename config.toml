@@ -24,7 +24,7 @@ posts = '/:section/:slugorcontentbasename/'
 [params]
 mode = "auto"
 useCDN = false
-subtitle = " ⚖️ Portuguese criminal defense lawyer  🇵🇹 "
+subtitle = " ⚖️ Portuguese criminal defense lawyer  🇵🇹  kontakt@advokatpougolovnymdelam.com"
 
 [[params.social]]
 name = "Bluesky"
